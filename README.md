@@ -1,9 +1,12 @@
 # Hi, I'm Sumaya 👋
+
 ## I'm a Software Developer
 
-- 🔭 I’m currently working on web developement projects
+
+- 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning app development
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sumayaa01)
+
 
 
 ## My Tech Stack 👨‍💻
@@ -46,11 +49,11 @@
     </tr>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="12.5%">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="48" height="48" />
         <br>Git
       </td>
       <td align="center" width="12.5%">
@@ -74,7 +77,7 @@
         <br>Node.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=androidstudoi-dark" alt="androidstudio-dark" width="48" height="48" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidstudio-dark" width="48" height="48" />
         <br>Android
       </td>
   </table>

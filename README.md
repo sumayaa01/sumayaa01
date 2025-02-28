@@ -2,14 +2,11 @@
 
 ## I'm a Software Developer
 
-
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning app development
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sumayaa01)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/sumayaa01)
 
-
-
-## My Tech Stack 👨‍💻
+## My Tech Stack 👩🏻‍💻
 
 <div align="center">
   <table>
@@ -49,7 +46,7 @@
     </tr>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="48" height="48" />
         <br>GitHub
       </td>
       <td align="center" width="12.5%">

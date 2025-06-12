@@ -1,10 +1,14 @@
 # Hi, I'm Sumaya 👋
 
-## I'm a Software Developer
+I'm a **Software Developer** with a passion for **web development** and **app development**.
+
+## About Me
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning app development
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/sumayaa01)
+
+<br>
 
 ## My Tech Stack 👩🏻‍💻
 
@@ -24,16 +28,16 @@
         <br>JavaScript
       </td>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
       </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br>MySQL
       </td>
       <td align="center" width="12.5%">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
@@ -54,8 +58,8 @@
         <br>Git
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
-        <br>HTML5
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" height="65" />
+        <br>HTML
       </td>
       <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />

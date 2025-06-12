@@ -46,35 +46,35 @@
     </tr>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
         <br>Git
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
         <br>HTML5
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" height="65" />
         <br>CSS
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
         <br>Bootstrap
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="65" height="65" />
         <br>Tailwind
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
         <br>Node.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidstudio-dark" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio-dark" width="65" height="65" />
         <br>Android
       </td>
   </table>
